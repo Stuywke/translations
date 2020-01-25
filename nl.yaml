@@ -114,7 +114,7 @@ global:
   "Laser Technology": "Lasertechniek "
   "Ion Technology": "Iontechniek"
   "Plasma Technology": "Plasmatechniek"
-  "Research Network": ""
+  "Research Network": "Onderzoeksnetwerk"
   "Intergalactic Research Network": "Intergalactisch Onderzoeksnetwerk"
   "Astrophysics": "Astrofysica"
   "Graviton Technology": "Gravitontechniek "
@@ -396,9 +396,9 @@ new-server:
   "New server": "Nieuwe server"
   "Settings": "Instellingen"
   "Subdomain": "subdomein"
-  "ascii characters": "ascii characters"
+  "ascii characters": "ascii karakters"
   "Region": "Regio"
-  "the bots will use IP from that region": "de bots zal een  IP uit die regio gebruiken"
+  "the bots will use IP from that region": "de bot zal een  IP uit die regio gebruiken"
   "Select one": "Kies een"
   "user": "Gebruiker"
   "users": "Gebruikers"
@@ -504,7 +504,7 @@ features:
   "Farmer": "Farmer"
   "Activities": "Activiteiten"
   "Empire view": "Koninkrijk overzicht"
-  "Combat simulator": "gevechtssimulator"
+  "Combat simulator": "Gevechtssimulator"
   "Universe map": "Universum kaart"
   "Augmented browsing experience": "Augmented browser ervaringen"
 first-use:
@@ -707,7 +707,7 @@ bot.simulator:
   "Moonchance": "Maankans"
   "Losses": "Verliezen"
   "Profit": "Winst"
-  "Captured": ""
+  "Captured": ""Gestolen
   "Possible": "Mogelijk"
   "Cargo's needed": "Vrachtschepen nodig"
 bot.scripts:
